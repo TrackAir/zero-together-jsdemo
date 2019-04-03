@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d74a4c63-d207-4de1-8445-efbbf583afb7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/taonihouzi.md" beforeDir="false" afterPath="$PROJECT_DIR$/taonihouzi.md" afterDir="false" />
-    </list>
+    <list default="true" id="d74a4c63-d207-4de1-8445-efbbf583afb7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/taonihouzi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <first_editor relative-caret-position="19">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,7 +142,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2412000" />
+    <option name="totallyTimeSpent" value="2454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="170" width="1099" height="729" extended-state="0" />
@@ -200,8 +198,8 @@
     <entry file="file://$PROJECT_DIR$/taonihouzi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
